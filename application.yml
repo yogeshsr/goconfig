@@ -5,6 +5,7 @@ someOtherFeature: F
 new_relic_app_name: foo
 new_relic_enabled: f
 new_relic_licence_key: bar
+new_relic_labels: team:team1;runtime:go;response_time:250ms
 db_driver: postgres
 db_url: test://something
 db_slave_url: test://something
